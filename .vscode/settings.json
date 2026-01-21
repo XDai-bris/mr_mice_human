@@ -1,0 +1,10 @@
+{
+  "r.linting.enabled": false,
+  "editor.renderValidationDecorations": "off",
+  "r.lsp.diagnostics": false,
+  "editor.renderWhitespace": "none",
+  "editor.renderControlCharacters": false,
+  "editor.guides.indentation": false,
+  "editor.guides.highlightActiveIndentation": false
+}
+
