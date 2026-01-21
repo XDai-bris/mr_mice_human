@@ -205,7 +205,6 @@ This is the recommended starting point before launching high-throughput all-by-a
 
 Your environment will likely need (depending on which scripts you run):
 
-- `data.table`, `dplyr`, `tidyr`, `ggplot2`
 - Mixed-model utilities used by your LMM implementation
 - `TwoSampleMR`, `ieugwasr` (human MR)
 - Any project-specific packages used in upstream DO scans (e.g., `qtl2`)
@@ -224,9 +223,7 @@ Your environment will likely need (depending on which scripts you run):
 ## Citation / acknowledgement
 
 If you use this pipeline in a manuscript, please cite:
-- The DO / qtl2 resources used for genome scans (as appropriate)
 - `TwoSampleMR` / OpenGWAS for human MR
-- Any MR methodological references relevant to IVW and Steiger filtering
 
 ---
 
